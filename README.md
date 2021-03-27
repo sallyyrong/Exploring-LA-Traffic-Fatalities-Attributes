@@ -19,6 +19,8 @@ The <a href="https://geohub.lacity.org/datasets/ladot::victim-tables-collisions-
   
   <h2> LA_Traffic_Deaths_2009-2013.Rmd </h2>
   <p> This R Markdown Notebook file contains all code written as part of our analysis.
+  <h2> LA_Traffic_Deaths_2009-2013.R </h2>
+  <p> Contains same information as .Rmd file, in form of an R Script.
   
   <h2> knitted_LA_Traffic_Deaths_2009-2013.pdf </h2>
   <p>This file shows the outputs of code written in LA_Traffic_Deaths_2009-2013.Rmd, in addition to our written proposal for pursuing this project.
